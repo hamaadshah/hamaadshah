@@ -1,3 +1,3 @@
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 ![Hamaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamaadshah&show_icons=true&include_all_commits)
