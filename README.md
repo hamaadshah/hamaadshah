@@ -11,6 +11,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=hamaadshah&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true&theme=synthwave)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamaadshah&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamaadshah&theme=synthwave&hide=jupyter%20notebook)
 
 Reference for GitHub stats card: https://github.com/anuraghazra/github-readme-stats
