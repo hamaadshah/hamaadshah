@@ -13,6 +13,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamaadshah&theme=synthwave&hide=jupyter%20notebook)
 
-![](https://api.github.com/search/repositories?q=user%hamaadshah+repo%fair_ml+b2d)
-
 Reference for GitHub stats card: https://github.com/anuraghazra/github-readme-stats
