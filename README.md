@@ -13,8 +13,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamaadshah&theme=synthwave&hide=jupyter%20notebook)
 
-![](https://komarev.com/ghpvc/?username=hamaadshah)
-
 Reference for GitHub stats card: https://github.com/anuraghazra/github-readme-stats
-
-Reference for profile views: https://github.com/Schweinepriester/Schweinepriester/blob/master/README.md
