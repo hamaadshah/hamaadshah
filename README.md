@@ -9,8 +9,8 @@
 - **CFA levels 1 and 2 exams passed on first attempts** with CFA level 3 exam to be completed in due course.
 - Please note that the below stats are related to my personal efforts as I cannot publish my professional efforts to GitHub, etc., for obvious reasons.
 
-![](https://github-readme-stats.vercel.app/api?username=hamaadshah&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api?username=hamaadshah&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamaadshah&theme=synthwave&hide=jupyter%20notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamaadshah&hide=jupyter%20notebook)
 
 Reference for GitHub stats card: https://github.com/anuraghazra/github-readme-stats
