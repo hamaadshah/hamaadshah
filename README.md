@@ -1,6 +1,6 @@
 # Hamaad Shah
 
-- **British** citizen with **14+ years experience and expertise** in **quantitative analytics**, **machine learning**, **data science** and **data engineering** - applicable to the **banking**, **insurance** and **consulting** domains.
+- **British** citizen with **15+ years experience and expertise** in **quantitative analytics**, **machine learning**, **data science** and **data engineering** - applicable to the **banking**, **insurance** and **consulting** domains.
 - Extensive expertise in **deep learning**, **Bayesian inference**, **Natural Language Processing (NLP)**, **Computer Vision (CV)**, etc., applied to various use cases such as **Asset Liability Management (ALM), actuarial pricing, trader surveillance**, **anti-financial crime**, etc..
 - **MSc in Applicable Mathematics** from the **London School of Economics and Political Science (LSE), UK**.
 - **BSc in Economics** (majored in **Econometrics** and **Mathematical Economics**) from the **University of Manchester, UK**. 
